@@ -13,8 +13,6 @@ Ce projet analyse l'évolution de la pandémie de **COVID-19** à l’aide de **
 
 # 📂 Arborescence  
 - `Projet_covid.Rmd` : Rapport principal contenant l’analyse et les résultats  
-- `data/` : Données sources utilisées pour l’étude  
-- `plots/` : Graphiques générés au cours de l’analyse  
 
 # ⚙️ Technologies utilisées  
 - **R & Tidyverse** pour la manipulation des données  
